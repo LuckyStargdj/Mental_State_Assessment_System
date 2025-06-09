@@ -1,0 +1,23 @@
+
+
+QWidget#data_frame QTableWidget#tableWidget_2,
+QWidget#set_form QTableWidget#tableWidget_2
+{
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding-top: 7px;
+}
+
+/*#a0a0a0*/
+QWidget#data_frame QTableWidget#tableWidget_2::Item:selected,
+QWidget#set_form QTableWidget#tableWidget_2::Item:selected
+{
+    background-color:rgb(217,235,249);
+    color:black;
+}
+
+QWidget#main_Form QListWidget#listWidget
+{
+    border:none;
+}
+
