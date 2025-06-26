@@ -1,0 +1,12 @@
+005
+dj
+Male
+11
+1
+67
+-1
+-1
+-1
+-1
+./EEG_Data/005-dj.pdf
+./EEG_Data/2024-05-31-11-37-46_005dj11MaleSound.csv
